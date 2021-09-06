@@ -1,0 +1,38 @@
+p
+{
+    text-align: left;
+    width: 300px;
+}
+div{
+        border: 0px solid black;
+        
+        overflow: visible;
+        
+        width: 60%;
+        padding: 3px;
+        box-sizing: border-box;
+    
+
+}
+ul 
+{
+    list-style: none;
+  }
+  
+  ul li a 
+  {
+    text-decoration: none;
+line-height: 1px;
+  }
+  
+  ul li 
+  {
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+ }
+ a{
+     font-size: 20px;
+     color: white
+ }
+ 

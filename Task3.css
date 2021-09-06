@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: white;
+    margin:0;
+    padding: 0;
+    background-size: contain;
+    overflow: hidden;
+    margin-top: 100px;
+    }
+    form{
+        padding: 10px;
+        text-align: center;
+    }
+    
+    textarea{
+        
+        height: 100px;
+        padding-inline: 10px;
+        width: 340px;
+        text-align: left;
+    }
+  button{
+      background-color: black;
+      color: white;
+    margin-top: 5px;
+    padding: 10px;
+text-align: center;
+  }  
